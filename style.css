@@ -1,1 +1,52 @@
-*
+* {
+    
+}
+
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+}
+
+.portcontain {
+
+    display: flex;
+width: 80%;
+flex-wrap: wrap;
+justify-content: flex-start;
+
+}
+
+.weird {
+
+    height: 50%;
+    width: 50%;
+    margin: 20px;
+    object-fit: cover;
+    
+}
+
+
+h3 {
+    background-color: #4aaaa5;
+    color: white;
+    position: relative;
+    bottom: -200px;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+}
+
+img {
+    
+    object-fit: cover; 
+    height: 50%;
+    width: 50%;
+    
+}
