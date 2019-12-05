@@ -2,6 +2,11 @@
     
 }
 
+p {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+     class="font-weight-bold">Bold text.
+
+}
 
 
 .footer {
@@ -44,11 +49,10 @@ h3 {
 }
 
 img {
-    
-    object-fit: cover; 
-    height: 50%;
-    width: 50%;
-    
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 }
 
 input[type=text], select, textarea {
