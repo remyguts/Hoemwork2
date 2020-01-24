@@ -4,6 +4,7 @@
 
 p {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  width: 354px;
 }
 
 .centered {
@@ -25,14 +26,18 @@ p {
     width: 176px;
     text-align: center;
 }
-  
+  #thisandthat {
+
+    padding: 0px;
+  }
 
 .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
-    background: #666666;
+    background: black;
+    color: white;
     border-top: 8px solid #4aaaa5;
     height: 50px;
 }
@@ -78,7 +83,7 @@ img {
      
     object-fit: cover; 
     height: 80%;
-    width: 100%;
+    width: 50%;
 }
 
 input[type=text], select, textarea {
