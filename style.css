@@ -1,7 +1,9 @@
 * {
     
 }
-
+body {
+    margin: 0px;
+}
 p {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   width: 354px;
@@ -76,6 +78,7 @@ img {
     object-fit: cover; 
     height: 50%;
     width: 50%;
+    padding: 0%;
     
 }
 
@@ -83,9 +86,16 @@ img {
      
     object-fit: cover; 
     height: 80%;
-    width: 50%;
+    width: 100%;
 }
 
+#planpic {
+
+height: 100%;
+width: 100%;
+
+
+}
 input[type=text], select, textarea {
     width: 100%; 
     padding: 12px; 
