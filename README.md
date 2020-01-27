@@ -35,7 +35,7 @@ Elray Belmonti
 Dane Shrewsbury
 
 
-[Link to Repository](https://github.com/remyguts/weatherdashboard)
+[Link to Repository](https://github.com/remyguts)
 
 
 
