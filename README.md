@@ -2,7 +2,6 @@
 
 ## Introduction
 
-//
 This is my my profile, to give links to all of my social media, my resume, and projects that I have both completed, and have taken part in.As a junior developer, I want future prospective employers to see the work I have done, and the work I'm capapble of moving forwawrd in my pogression.
 
 ## User Story as Provided
